@@ -1,6 +1,6 @@
 Multimedia Keys are working without FN
 
-Actual F keys are working with Swift
+Actual F keys are working with Shift
 
 Just add the path to your mail client and your calculator, but even if you don't everything else works as expected.
 
