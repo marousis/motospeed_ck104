@@ -6,10 +6,12 @@ Just add the path to your mail client and your calculator, but even if you don't
 
 ---
 
-Install the programs below to ryn everything out of the box, or configure the file acording to your needs.
+Install the programs below to run everything out of the box, or configure the file acording to your needs.
 
 Music player: https://www.spotify.com/gr/download/windows/
+
 Calculator: https://winaero.com/blog/get-calculator-from-windows-8-and-windows-7-in-windows-10/
+
 Mail Client: https://www.emclient.com/download
 
 Tip!
