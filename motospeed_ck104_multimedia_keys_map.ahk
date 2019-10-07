@@ -1,5 +1,10 @@
 
-F1::Launch_Media
+; F1::Run, "..." ;Replace "..." with path to your media player (p.e. Spotify)
+; +F1::Send, {F1}
+; Return
+
+
+F1::Run, "C:\Users\Marousis\AppData\Roaming\Spotify\Spotify.exe"
 +F1::Send, {F1}
 Return
 
@@ -35,6 +40,10 @@ Return
 ; +F9::Send, {F9}
 ; Return
 
+F9::Run, "C:\Program Files (x86)\eM Client\MailClient.exe"
++F9::Send, {F9}
+Return
+
 F10::Browser_Home
 +F10::Send, {F10}
 Return
@@ -46,3 +55,7 @@ Return
 ; F12::Run, "..." ;Replace "..." with path to calculator
 ; +F12::Send, {F12}
 ; Return
+
+F12::Run, "C:\Windows\System32\calc1.exe"
++F12::Send, {F12}
+Return
