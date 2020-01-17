@@ -4,7 +4,7 @@
 ; Return
 
 
-F1::Run, "C:\Users\Marousis\AppData\Roaming\Spotify\Spotify.exe"
+F1::Run, "C:\Users\...\AppData\Roaming\Spotify\Spotify.exe"
 +F1::Send, {F1}
 Return
 
